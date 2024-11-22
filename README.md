@@ -1,11 +1,12 @@
-# **Rijwal Sangey** ⚡️
+# **Rijwal Sangey** 
 
-### Prospective Engineering Physics Student at the University of British Columbia 
-    📍 **Vancouver, BC** | 📧 **rijwalsangey@gmail.com@**  
+** Prospective Engineering Physics Student at the University of British Columbia **
+    📍 Vancouver, BC | 📧 rijwalsangey@gmail.com  
+
 
   ---
 
-  
+
 <!--
 **rijwal/rijwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
