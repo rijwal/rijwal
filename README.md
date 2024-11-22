@@ -5,7 +5,7 @@
 
  ---
  ### 🙋 **About Me** 
-  Hi, I’m Rijwal Sangey, a tech enthusiast passionate about making a difference in the field of technology. My interests lie in exploring **machine learning concepts** and **artificial intelligence** to drive innovation and create impactful solutions. Get to know me better on the website I developed: https://rijwal.github.io/portfolio/](https://rijwal.github.io/Personal-Portfolio/
+  Hi, I’m Rijwal Sangey, a tech enthusiast passionate about making a difference in the field of technology. My interests lie in exploring **machine learning concepts** and **artificial intelligence** to drive innovation and create impactful solutions. Get to know me better on the website I developed: (https://rijwal.github.io/Personal-Portfolio/)
 
 ---
 
