@@ -1,11 +1,11 @@
 # **Rijwal Sangey** ⚡️
 
 ### Engineering Student at the University of British Columbia
- **Vancouver, BC | rijwalsangey@gmail.com** 
+ **Vancouver, BC | rijwalsangey@gmail.com* | https://rijwalsangey.netlify.app/ * 
 
  ---
  ### 🙋 **About Me** 
-  Hi, I’m Rijwal Sangey, a tech enthusiast passionate about making a difference in the field of technology. My interests lie in exploring **embedded technologies** and **artificial intelligence** to drive innovation and create impactful solutions. Get to know me better on the website I developed: (https://rijwal.github.io/Personal-Portfolio/)
+  Hi, I’m Rijwal Sangey, a tech enthusiast passionate about making a difference in the field of technology. My interests lie in exploring **embedded technologies** and **artificial intelligence** to drive innovation and create impactful solutions.
 
 ---
 
