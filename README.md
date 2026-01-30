@@ -1,7 +1,7 @@
 # **Rijwal Sangey** ⚡️
 
 ### Engineering Student at the University of British Columbia
- **Vancouver, BC | rijwalsangey@gmail.com* | https://rijwalsangey.netlify.app/ * 
+ Vancouver, BC | rijwalsangey@gmail.com | https://rijwalsangey.netlify.app/ 
 
  ---
  ### 🙋 **About Me** 
